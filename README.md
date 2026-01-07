@@ -49,4 +49,19 @@ Mobile       : 9876543210
 Duration     : 3 Hours
 Total Fee    : ₹60
 ==================================
-🎓 Learning OutcomesFile I/O: Practical understanding of C++ binary file handling.OOP Principles: Implementation of real-world problems using classes and objects.Encapsulation: Protecting data using private members and getter/setter methods.Data Integrity: Safe record update and deletion using temporary files.📌 Future Enhancements💳 Payment Integration: Digital receipt storage.📄 Export Feature: Export records to CSV/Excel format.🖥️ GUI: Develop a visual interface using Qt Framework.⏰ Timestamps: Integration of real-time ctime library for entry/exit.👨‍💻 AuthorPratham Suri Full Stack Developer | AI Intern @ Infosys Springboard | Open Source Contributor (GSSoC)⭐ If you like this project, give it a star on GitHub — it motivates me to build more!
+```
+🎓 Learning OutcomesFile 
+I/O: Practical understanding of C++ binary file handling.
+OOP Principles: Implementation of real-world problems using classes and objects.
+Encapsulation: Protecting data using private members and getter/setter methods.
+Data Integrity: Safe record update and deletion using temporary files.
+
+📌 Future Enhancements💳 Payment Integration: Digital receipt storage.
+📄 Export Feature: Export records to CSV/Excel format.
+🖥️ GUI: Develop a visual interface using Qt Framework.
+⏰ Timestamps: Integration of real-time ctime library for entry/exit.
+
+👨‍💻 Author
+Pratham Suri Full Stack Developer | AI Intern @ Infosys Springboard | Open Source Contributor (GSSoC)
+
+⭐ If you like this project, give it a star on GitHub — it motivates me to build more!
